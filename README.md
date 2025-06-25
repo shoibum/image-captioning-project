@@ -29,7 +29,7 @@ image-captioning-project/
 └── README.md
 
 Setup & Installation
-1. Clone the repository (or set it up as described below):
+1. Clone the repository:
 
 git clone <your-repository-url>
 cd image-captioning-project
