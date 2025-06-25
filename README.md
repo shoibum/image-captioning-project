@@ -50,7 +50,7 @@ image-captioning-project/
 
 1. **Clone the repository:**
 ```bash
-git clone <your-repository-url>
+git clone https://github.com/shoibum/image-captioning-project
 cd image-captioning-project
 ````
 
