@@ -69,7 +69,7 @@ pip install -r requirements.txt
 
 4. **Download Data:**
 
-* Download the Flickr8k dataset from the provided Dropbox link.
+* Download the Flickr8k dataset from the provided Dropbox link.(https://www.dropbox.com/sh/q4dehgdtbo0b6vt/AABFoMwAxqEQWQnl_xQYY2fsa?dl=0)
 * Unzip and place the folders `Flicker8k_Dataset` and `Flickr8k_text` inside:
 
 ```
